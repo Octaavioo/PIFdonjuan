@@ -1,0 +1,70 @@
+{
+    "productos": [
+        {
+            "id": "PRO-20260928025428-571247",
+            "nombre": "Lentejas",
+            "tipo": "Legumbre",
+            "formato": "Bolsa",
+            "peso": "15",
+            "vencimiento": "2026-09-28",
+            "estado": "Disponible",
+            "fecha_registro": "2026-09-28 02:54:28"
+        },
+        {
+            "id": "PRO-20260928161509-D8D0AA",
+            "nombre": "Porotos",
+            "tipo": "Legumbre",
+            "formato": "Bolsa",
+            "peso": "10",
+            "vencimiento": "2026-09-30",
+            "estado": "Disponible",
+            "fecha_registro": "2026-09-28 16:15:09"
+        }
+    ],
+    "bodegas": [
+        {
+            "id": "BOD-CHIGUAYANTE",
+            "nombre": "Bodega Chiguayante",
+            "ubicacion": "Chiguayante",
+            "descripcion": "Bodega principal de almacenamiento"
+        },
+        {
+            "id": "BOD-VEGA-MONUMENTAL",
+            "nombre": "Local Vega Monumental",
+            "ubicacion": "Vega Monumental de Concepción-Talcahuano",
+            "descripcion": "Pasillo 3 Local 94"
+        }
+    ],
+    "responsables": [
+        {
+            "id": "USR-20260928025502-5FFE37",
+            "nombre": "Ulises",
+            "rut": "21475985-3",
+            "rol": "Administrador",
+            "fecha_registro": "2026-10-01 04:34:53"
+        },
+        {
+            "id": "USR-20260928162545-A0AB73",
+            "nombre": "Lara",
+            "rut": "21475985-3",
+            "rol": "Vendedor",
+            "fecha_registro": "2026-10-01 04:34:53"
+        },
+        {
+            "id": "USR-20260928163049-57B197",
+            "nombre": "Lara1",
+            "rut": "21475986-3",
+            "rol": "Administrador",
+            "fecha_registro": "2026-10-01 04:34:53"
+        },
+        {
+            "id": "USR-20260928163109-0E9767",
+            "nombre": "Lara2",
+            "rut": "24725296-5",
+            "rol": "Administrador",
+            "fecha_registro": "2026-10-01 04:34:53"
+        }
+    ],
+    "stock": [],
+    "movimientos": []
+}
